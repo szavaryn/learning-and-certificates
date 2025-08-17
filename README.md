@@ -1,8 +1,8 @@
 # learning-and-certificates
 Portfolio of completed courses and professional certificates.
 
-[2024_DeepLearning.AI_Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/e60bd7814aabd690e3230aef4f143ae3)
-[2024_DeepLearning.AI_Neural Networks and Deep Learning](https://coursera.org/share/cffba4e8d2ee3fafd4ff7003b1e17d37)
+- [2024_DeepLearning.AI_Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/e60bd7814aabd690e3230aef4f143ae3)
+- [2024_DeepLearning.AI_Neural Networks and Deep Learning](https://coursera.org/share/cffba4e8d2ee3fafd4ff7003b1e17d37)
 [2023_Google_Advanced_Data_Analytics_Certificate](https://coursera.org/share/2d3dbd1f34f5cbe4e5731f22d4e67d94)
 [2023_Google_Advanced Data Analytics Capstone](https://coursera.org/share/54ba1a237180720c863764dd69cb41ff)
 [2023_Google_Translate Data into Insights](https://coursera.org/share/f54cdf973d66d53bf932b3fc5473f37a)
