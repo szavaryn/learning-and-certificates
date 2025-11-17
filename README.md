@@ -19,3 +19,4 @@ Portfolio of completed courses and professional certificates.
 - [2023_Python_Institute_Certificate_PCEP-30-02](https://verify.openedg.org/), code: J8gE.hZ3b.vX4r
 - [2023_Hackerrank_Python_Certificate](https://www.hackerrank.com/certificates/0b01a75691db)
 - [2022_HackerRank_SQL_Certificate](https://www.hackerrank.com/certificates/da55be877f7d)
+- 2021_IELTS C1 Academic
